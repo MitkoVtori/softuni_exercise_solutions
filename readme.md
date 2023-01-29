@@ -18,7 +18,7 @@ Curently works only with Python Advanced
 <br>
 <br>
 
-### Download-.app.zip-file
+### Download-app-zip-file
 
 Go to the files above and download the bottom file:
 
