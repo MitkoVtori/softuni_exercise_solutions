@@ -23,8 +23,8 @@ Currently works only with Python Advanced
 
 # Usage guide
 
-#### [Getting Exercises](#Getting-exercises)
-#### [Second way](#Second-way)
+#### [1.Getting Exercises](#Getting-exercises)
+#### [2.Second way](#Second-way)
 
 <br>
 
