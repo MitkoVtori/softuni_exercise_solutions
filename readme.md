@@ -27,6 +27,14 @@ Currently works only with Python Advanced
 #### [2.Second way](#Second-way)
 
 <br>
+<br>
+
+# Errors/issues
+
+#### [1.Custom Errors](#Custom-Errors)
+#### [2.Issues, bugs & others.](#If-there's-a-Bug,-Error-or-something-else,-please-submit-it-in-issues:-https://github.com/MitkoVtori/softuni_exercise_solutions/issues/new/choose)
+
+<br>
 
 # Download guide
 
@@ -105,3 +113,14 @@ When you run **\_\_main\_\_.py** you'll see all available lessons and their inde
 If something doesn't work or you don't know what to search for, you can always see the solutions from the path with all exercises:
 
 ![Screenshot 2023-01-28 212617](https://user-images.githubusercontent.com/112943652/215313184-1257adc4-5085-4e66-8e1e-e2b1cdd72f04.png)
+
+
+# Errors
+
+### Custom Errors
+
+If try to get invalid path **10** times, you'll receive custom error:
+
+https://github.com/MitkoVtori/softuni_exercise_solutions/blob/b488245650fedfdc9b95898bf9849025aa991848/__main__.py#L72-L73
+
+#### If there's a Bug, Error or something else, please submit it in issues: https://github.com/MitkoVtori/softuni_exercise_solutions/issues/new/choose
