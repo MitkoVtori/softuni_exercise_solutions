@@ -32,7 +32,7 @@ Currently works only with Python Advanced
 # Errors/issues
 
 #### [1.Custom Errors](#Custom-Errors)
-#### [2.Issues, bugs & others.](#Isues,-bugs,-feedback,-questions-&-others)
+#### [Isues, bugs, feedback, questions & others.](https://github.com/MitkoVtori/softuni_exercise_solutions/blob/main/readme.md#isues-bugs-feedback-questions--others)
 
 <br>
 
