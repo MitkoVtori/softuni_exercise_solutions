@@ -89,6 +89,7 @@ When you run **\_\_main\_\_.py** you'll see all available lessons and their inde
 ![Screenshot 2023-01-28 212038](https://user-images.githubusercontent.com/112943652/215312697-107e47e4-e5fe-4204-ae64-018a32430bd3.png)
 
 **Example result**
+
 ![Screenshot 2023-01-28 212117](https://user-images.githubusercontent.com/112943652/215312961-fe41e5aa-17d6-4d91-83fd-210b17011c72.png)
 
 **Example result.txt**
@@ -96,6 +97,7 @@ When you run **\_\_main\_\_.py** you'll see all available lessons and their inde
 ![Screenshot 2023-01-28 212334](https://user-images.githubusercontent.com/112943652/215313026-e755f773-d1fb-4343-9977-8baecd77b12d.png)
 
 **Example result.html**
+
 ![Screenshot 2023-01-28 212420](https://user-images.githubusercontent.com/112943652/215313059-47548040-4819-47a7-b1ee-1d726572c7bc.png)
 
 ### Second-way
