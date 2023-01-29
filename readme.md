@@ -32,7 +32,7 @@ Currently works only with Python Advanced
 # Errors/issues
 
 #### [1.Custom Errors](#Custom-Errors)
-#### [2.Issues, bugs & others.](#If-there's-a-Bug,-Error-or-something-else,-please-submit-it-in-issues:-https://github.com/MitkoVtori/softuni_exercise_solutions/issues/new/choose)
+#### [2.Issues, bugs & others.](#Isues,-bugs,-feedback,-questions-&-others)
 
 <br>
 
@@ -123,4 +123,5 @@ If try to get invalid path **10** times, you'll receive custom error:
 
 https://github.com/MitkoVtori/softuni_exercise_solutions/blob/b488245650fedfdc9b95898bf9849025aa991848/__main__.py#L72-L73
 
+### Isues, bugs, feedback, questions & others
 #### If there's a Bug, Error or something else, please submit it in issues: https://github.com/MitkoVtori/softuni_exercise_solutions/issues/new/choose
