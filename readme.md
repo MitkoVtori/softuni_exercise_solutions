@@ -119,7 +119,7 @@ If something doesn't work or you don't know what to search for, you can always s
 
 ### Custom Errors
 
-If try to get invalid path **10** times, you'll receive custom error:
+If you try to get invalid path **10** times, you'll receive custom error:
 
 https://github.com/MitkoVtori/softuni_exercise_solutions/blob/b488245650fedfdc9b95898bf9849025aa991848/__main__.py#L72-L73
 
