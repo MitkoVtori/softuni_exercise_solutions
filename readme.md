@@ -14,9 +14,9 @@ Currently works only with Python Advanced
 
 # Run code
 
-#### [Run without IDE](#Run-without-IDE)
-#### [Run with IDE](#Run-with-IDE)
-#### [Run entire file in IDE](#Run-entire-file-in-IDE)
+#### [1.Run without IDE](#Run-without-IDE)
+#### [2.Run with IDE](#Run-with-IDE)
+#### [3.Run entire file in IDE](#Run-entire-file-in-IDE)
 
 <br>
 <br>
