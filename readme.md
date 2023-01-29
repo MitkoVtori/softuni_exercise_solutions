@@ -5,7 +5,7 @@ Curently works only with Python Advanced
 
 # Install guide
 
-#### [1. Download .app.zip file](#Download-.app.zip-file)
+#### [1. Download .app.zip file](#Download-app-zip-file)
 **OR**
 #### [2. Clone repo](#Clone-repo)
 
