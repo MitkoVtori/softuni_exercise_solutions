@@ -1,7 +1,7 @@
 # SoftUni Exercise Solutions
 This is a program, that gives you the solutions of all exercises in a chosen by you softuni lesson.
 
-Currently works only with Python Advanced
+Currently works only with Python Advanced and Python Fundamentals.
 
 # Install guide
 
