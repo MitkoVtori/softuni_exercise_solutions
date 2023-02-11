@@ -1,0 +1,2 @@
+class TooManyInvalidTriesError(Exception):
+    pass
